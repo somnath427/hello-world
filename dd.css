@@ -1,0 +1,13 @@
+#navin{
+    height:30px;
+    width:30%;
+    border-radius:6px 0px 0px 6px;
+    color:#4542f4;
+    padding:0 0 0 10px;
+  }
+  #navsub{
+    padding:0px 10px 0px 10px;
+    height:30px;
+    border-radius:0 6px 6px 0;
+    color:#4542f4;
+  }
